@@ -1,8 +1,8 @@
 "profile_data": [
 	{
 		"id": 1,
-		"emp_id": 11772,
-		"status": "Good"
+		"emp_id": "11772",
+		"status": "good"
 	},{
 		"id": 2,
 		"emp_id": 11776,
